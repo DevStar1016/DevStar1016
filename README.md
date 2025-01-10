@@ -1,9 +1,7 @@
 <p><img align="right" width="50%" src="javascript.gif" alt="NGUD" /></p>
 
 <p align="center">
-  <a>
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Good+Team-Player;Passionate%20Developer;Specialized%20in%20JavaScript%20and%20TypeScript;React,%20Next%20for%20the%20Front-End;Node,%20Python,%20Ruby,%20ASP.NET,%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=50">
-  </a>
+  BlockChain developer
 </p>
 
 <br />
