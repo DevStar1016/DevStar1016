@@ -1,6 +1,6 @@
 
 <h1 color='red' align="center">
- Senior .NET AI Engineer| Azure AI | React | MUI
+ Senior .NET AI Engineer| Azure AI | React | MAUI
 </h1>
 
 
