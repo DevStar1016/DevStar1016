@@ -1,6 +1,6 @@
 
 <h1 color='red' align="center">
- Senior .NET AI Engineer| Power APP | Power automate Engineer
+ Senior .NET Full stack | Azure AI | Angular| React
 </h1>
 
 
