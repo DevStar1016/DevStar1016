@@ -1,6 +1,7 @@
 
 <h1 color='red' align="center">
- Senior .NET Full stack | Azure AI | Angular| React
+Full-Stack Developer | Next.js, React.js, Node.js, Supabase, Azure
+
 </h1>
 
 
@@ -12,11 +13,34 @@ If you share a similar passion for technology and are interested in connecting w
 
 🚀 <b>Confidently in the direction of your dreams. Live the life you have imagined.</b>
 
-Senior Software Engineer & Technology Lead with 9 years of comprehensive experience in designing and implementing AI-powered web applications for startups and Fortune 500 companies. Expertise in full-stack development utilizing .NET (Core & Framework), Angular, React, and ASP.NET MVC, with a strong focus on scalable, maintainable solutions. Skilled in cloud-based architectures on Microsoft Azure, including Azure AI and Cognitive Services, as well as deep learning integrations with Deepseek technology.
+Work guarantee 🎖️ | Quick answers ⚡️ | Always quality work ✅ | 7+ Years Experience 💻 | Full Stack Engineer | Scalable Web App Specialist
 
-Proficient in C#, TypeScript, JavaScript, and RESTful API development, with extensive experience in database management using Microsoft SQL Server and PostgreSQL. Adept at leveraging microservices architecture, containerization (Docker, Kubernetes), and CI/CD pipelines to optimize deployment workflows.
+🧠 TECH STACK
+Next | React | Node | Express | Supabase | MongoDB | PostgreSQL | MySQL | TypeScript | Tailwind CSS | Azure | AWS | GraphQL | REST APIs | Docker | CI/CD
 
-Recently transitioned to Deepseek AI platform, applying my backend development expertise to create innovative, AI-driven enterprise solutions. Committed to utilizing cutting-edge technologies and agile methodologies to deliver high-performance, scalable, and secure applications that meet complex business requirements.
+💼 SERVICES
+Custom Web App Development (Frontend & Backend)
+Modern Website Development (Next, React)
+API Design & Integration (Node, Express.js, Supabase)
+Real-time Web Apps & Dashboards (Socket, Supabase Realtime)
+Cloud Deployment & Management (Azure, AWS)
+Database Design & Optimization (MongoDB, PostgreSQL, MySQL)
+Responsive UI Development (Tailwind CSS, Bootstrap, Redux)
+Authentication & Secure Access (JWT, OAuth, Supabase Auth)
+Performance Optimization & Scalability
+Full-stack Architecture Design & Maintenance
+
+🌍 INDUSTRIES SERVED
+Real Estate | SaaS | eCommerce | Healthcare | Education | Entertainment | Startups & Enterprises
+
+💡 WHY CHOOSE ME
+1. Clean, maintainable, and production-ready code
+2. Strong problem-solving and communication skills
+3. Scalable architecture and optimized performance
+4. Agile development and quick turnaround
+5. End-to-end project ownership with post-launch support
+
+Let's build something exceptional from MVPs to enterprise-grade web platforms. Let's connect and turn your vision into a high-performing digital product!
 
 
 #### 🔥Major Programming Languages:
