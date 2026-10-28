@@ -1,6 +1,6 @@
 
 <h1 color='red' align="center">
-Full-Stack Developer | NET | C# | Next.js, React.js, Node.js, Postgres, Azure
+AI & Full-Stack Developer | LLM AI Agent | NET | C# | Next.js, React.js, Node.js, Postgres, Azure
 
 </h1>
 
